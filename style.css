@@ -1,0 +1,14 @@
+.body {
+    background-color: navy;
+    display: flex;
+    justify-content: center;
+}
+.header {
+    background-color: aquamarine;
+}
+.mumba {
+}
+.footer {
+    display: flex;
+    justify-content: center;
+}
